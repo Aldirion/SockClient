@@ -1,2 +1,2 @@
 # SockClient
-TCP Client source in SockClient.vc
+TCP Client source in TCPClient.cs
