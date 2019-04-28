@@ -1,0 +1,11 @@
+D:\ \4 семестр\Информационные технологии\CourseProject\SockClient\SockClient\bin\Debug\SockClient.exe
+D:\ \4 семестр\Информационные технологии\CourseProject\SockClient\SockClient\bin\Debug\SockClient.pdb
+D:\ \4 семестр\Информационные технологии\CourseProject\SockClient\SockClient\obj\Debug\SockClient.csproj.CoreCompileInputs.cache
+D:\ \4 семестр\Информационные технологии\CourseProject\SockClient\SockClient\obj\Debug\SockClient.exe
+D:\ \4 семестр\Информационные технологии\CourseProject\SockClient\SockClient\obj\Debug\SockClient.pdb
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\bin\Debug\SockClient.exe
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\bin\Debug\SockClient.pdb
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\obj\Debug\SockClient.csprojAssemblyReference.cache
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\obj\Debug\SockClient.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\obj\Debug\SockClient.exe
+C:\Users\sokol\source\CourseProject\SockClient\SockClient\obj\Debug\SockClient.pdb
